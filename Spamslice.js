@@ -34,7 +34,3 @@ function main() {
 }
 
 window.setTimeout(main, 10);
-
-
-
-

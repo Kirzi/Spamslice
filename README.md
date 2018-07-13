@@ -1,6 +1,8 @@
 # Spamslice
 
-Flags usernames with less than x (30 by default) posts, since most spammers only have a few posts. This will result in mostly false positives. However, if you're checking for spammers and see a flagged username, consider checking the user's profile for spammy behavior.
+Tampermonkey script for flagging possible spammers.
+
+Highlights usernames with less than x (30 by default) posts, since most spammers only have a few posts. This will result in mostly false positives. However, if you're checking for spammers and see a flagged username, consider checking the user's profile for spammy behavior.
 
 To install, copy the entire contents of Spamslice.js to a new userscript in Tampermonkey, and save.
 
